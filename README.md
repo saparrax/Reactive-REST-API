@@ -40,7 +40,7 @@ mvn spring-boot:run
 
 The application includes unit tests for all services and the controller. Additionally, there is an integration test to validate the request.
 
-- SimilarProductsControllerIT: Tests the request in the 'VisibilityController' to ensure its correctness.
+- SimilarProductsControllerIT: Tests the request in the 'SimilarProductsController' to ensure its correctness.
 
 You can run the tests using the following command:
 ``` 

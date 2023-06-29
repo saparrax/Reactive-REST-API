@@ -19,7 +19,7 @@ import java.time.Duration;
 import java.util.List;
 
 /**
- * Service Implementation for managing visibility
+ * Service Implementation for managing
  */
 @Service
 @RequiredArgsConstructor
